@@ -12,7 +12,8 @@ data science, and applied ML; two U.S. patents.
 
 
 
-**Elsewhere**
+**Connect**
 
+- [sky@skycarl.io](mailto:sky@skycarl.io)
 - [skycarl.io](https://skycarl.io/l/gh)
 - [LinkedIn](https://linkedin.com/in/skyler-carlson)
